@@ -1,0 +1,1 @@
+# okx-analise-taxas-seguranca
